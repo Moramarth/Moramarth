@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I am George Lazarov. Accountant by degree, football goalkeeper by heart, web developer in the making.
 
 <!--
 **Moramarth/Moramarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Python development at SoftUni University.
+- ⚡ Fun fact: Reignited my passion for football in the middle of 2021 after 15 years not touching a ball.
+- 📫 How to reach me: george.y.lazarov@gmail.com and [Facebook](https://www.facebook.com/george.lazarov.1)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Moramarth&theme=python-dark)](https://git.io/streak-stats)
