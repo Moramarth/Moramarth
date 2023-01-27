@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python development at SoftUni University.
+- 🌱 I’m currently learning Python development at [SoftUni University](https://softuni.bg/).
 - ⚡ Fun fact: Reignited my passion for football in the middle of 2021 after 15 years not touching a ball.
 - 📫 How to reach me: george.y.lazarov@gmail.com and [Facebook](https://www.facebook.com/george.lazarov.1)
 
