@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python development at [SoftUni University](https://softuni.bg/).
 - ⚡ Fun fact: Reignited my passion for football in the middle of 2021 after 15 years not touching a ball.
-- 📫 How to reach me: george.y.lazarov@gmail.com and [Facebook](https://www.facebook.com/george.lazarov.1)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:george.y.lazarov@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-lazarov-455678267/) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flate&logo=facebook&logoColor=white)](https://www.facebook.com/george.lazarov.1)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Moramarth&theme=python-dark)](https://git.io/streak-stats)
